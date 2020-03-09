@@ -17,7 +17,6 @@ h1 a{
     font-weight: 100;
     color: #861BBF;
     text-decoration: none;
-
 }
 #searchBox{
     float: right;
@@ -42,7 +41,6 @@ h1 a{
     color: white;
     background: #A751D6;
     font-size: 15px;
-
 }
 .clear{
     clear: both;
@@ -55,7 +53,6 @@ h1 a{
 ul{
     list-style: none;
 }
-
 #menu ul li{
     float: left;
     padding: 0 30px;
