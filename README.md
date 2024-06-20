@@ -42,3 +42,48 @@ E-mail:
 Telefon:
 
 Această Politică de Confidențialitate este în vigoare începând cu data de [20/06/2024].
+
+Privacy Policy
+1. Introduction
+This Privacy Policy describes how we collect, use, and protect your personal information. We are committed to protecting your privacy and handling your personal data in a transparent manner.
+
+2. Information We Collect
+We collect the following types of information:
+
+Personal Identification Information: Name, email address, phone number, etc.
+Usage Information: Data regarding how you use our website, including IP addresses, browser types, and pages visited.
+Third-Party Information: We may receive information about you from third parties, such as business partners.
+3. How We Use Information
+We use the collected information for the following purposes:
+
+Service Provision: To provide you with the requested products and services.
+Service Improvement: To enhance and personalize your experience on our website.
+Communication: To contact you with information and updates regarding our services.
+Security: To protect users and prevent fraudulent activities.
+4. Disclosure of Information
+We do not sell, rent, or trade your personal information. We may disclose your information in the following cases:
+
+Service Providers: Third parties that help us provide and improve our services.
+Legal Obligations: When we are legally required to disclose information.
+5. Data Security
+We take reasonable measures to protect your personal information against loss, theft, and unauthorized access. These measures include the use of encryption technologies and other security procedures.
+
+6. Your Rights
+You have the following rights regarding your personal information:
+
+Right to Access: You have the right to request a copy of the personal information we hold about you.
+Right to Rectification: You have the right to request the correction of inaccurate or incomplete information.
+Right to Deletion: You have the right to request the deletion of your personal information.
+Right to Object: You have the right to object to the processing of your personal information.
+7. Changes to the Privacy Policy
+We may update this Privacy Policy periodically. We will notify you of any changes by posting the new policy on our website. We encourage you to review this page periodically to stay informed about our privacy practices.
+
+8. Contact
+For questions or concerns regarding this Privacy Policy, please contact us at:
+
+Imob Expert
+Address:
+Email:
+Phone:
+
+This Privacy Policy is effective as of [20/06/2024].
